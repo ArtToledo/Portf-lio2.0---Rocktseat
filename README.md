@@ -1,5 +1,5 @@
-# Portf-lio2.0---Rocktseat
-Aprimoramento do primeiro projeto criado no curso aplicando os conceitos aprendidos durante as aulas
+# Portfólio2.0 - Curso LaunchBase Rocketseat
+### Aprimoramento do primeiro projeto criado no curso aplicando os conceitos aprendidos durante as aulas
 
 -> Linguagens utilizadas: HTML, JavaScript e CSS
 
@@ -20,3 +20,5 @@ Aprimoramento do primeiro projeto criado no curso aplicando os conceitos aprendi
      Aprender o conceito e aplicação do *req, res*;
   
      etc.
+
+!(Gift do projeto)[https://github.com/ArtToledo/Portf-lio2.0---Rocktseat/blob/master/portfolio2.0.gif]
