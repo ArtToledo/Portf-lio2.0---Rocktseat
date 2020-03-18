@@ -21,4 +21,4 @@
   
      etc.
 
-!(Gift do projeto)[https://github.com/ArtToledo/Portf-lio2.0---Rocktseat/blob/master/portfolio2.0.gif]
+![Gift do projeto](https://github.com/ArtToledo/Portf-lio2.0---Rocktseat/blob/master/portfolio2.0.gif)
